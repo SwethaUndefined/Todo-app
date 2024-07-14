@@ -1,0 +1,76 @@
+.main-section {
+    border-radius: 8px;
+    background: #1a1a40 !important;
+    height: 400px !important;
+    width: 700px;
+    padding: 10px !important;
+    overflow: hidden;
+}
+
+.heading {
+    color: #ffffff !important;
+    font-size: 25px;
+    font-weight: 700;
+    text-align: center;
+    padding: 5px 0px 5px 0px !important;
+}
+
+.ant-list-item {
+    padding: 4px 0px !important;
+}
+
+.ant-list {
+    height: 250px !important;
+    overflow-y: auto !important;
+}
+
+.todoInput {
+    background: #8758ff !important;
+    color: #ffffff !important;
+    border: none !important;
+    border-radius: 4px;
+}
+
+.icon {
+    color: #ffffff;
+    font-size: 16px;
+    cursor: pointer;
+    margin-left: 6px;
+}
+
+.add-input-col {
+    margin-bottom: 20px;
+}
+.add-input,
+.add-input:hover,
+.add-input:focus,
+.add-input:active {
+    border-radius: 0px;
+    outline: none;
+    background: none !important;
+    border: 1px solid #8758ff;
+    color: #fff;
+}
+.add-input::placeholder {
+    color: #ffffff4d;
+}
+
+.add-btn {
+    background: #8758ff !important;
+    border-radius: 0px !important;
+    border: 1px solid #8758ff !important;
+    color: #ffffff !important;
+}
+
+  
+.add-btn:hover,
+.add-btn:focus,
+.add-btn:active {
+    background: #8758ff !important;
+    border: 1px solid #8758ff !important;
+    color: #ffffff !important;
+}
+.done {
+    color: gray !important;
+  }
+  
